@@ -1,4 +1,5 @@
 /* Write your code here. */
+/* Write your code here. */
 .bg-container {
   background-image: linear-gradient(to right, #1d976c, #219a6f, #93f9b9);
   height: 100vh;
@@ -10,11 +11,46 @@
 }
 
 .img-logo {
-  height: 300px;
+  height: 400px;
   width: 300px;
 }
 
 .text-field {
-  width: 250px;
+  width: 230px;
   text-align: start;
+}
+
+.counter-box {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 45px;
+  /* padding: 10px; */
+  width: 140px;
+  margin-top: 25px;
+}
+
+.counter-part {
+  color: #219a6f;
+  font-weight: bold;
+  font-family: 'Roboto';
+  padding: 10px;
+}
+
+.input-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 9px;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.input-field {
+  border-radius: 3px;
+  background-color: #1d976c;
+  color: #ffffff;
+  width: 250px;
+  padding: 5px;
+  border: 1px solid #ffffff;
 }
